@@ -1,6 +1,6 @@
 # photobox
 
-Photobox (OldGent's Photobox) is a raspberry pi powered DSLR-Photobooth script written in Python.
+Photobox (OldGent's Photobox) is a raspberry pi powered DSLR-Photobooth script written in Python. It's based on pygame, libgphoto2 (-python-piggyphoto). 
 
 Features:
 - Supports almost every camera that's supported by libgphoto2 (http://gphoto.org/proj/libgphoto2/support.php)
