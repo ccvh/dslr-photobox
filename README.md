@@ -11,3 +11,14 @@ Features to come:
 - Wifi-Hotspot w/ live gallery
   - Send images via eMail, Share them @ social networks
 - Themes! (Just using "images" for the Slides)
+
+# Installation
+- Install rasbpian
+- Install following packages via apt-get:
+gphoto2, python-piggyphoto, ... 
+
+- Copy all files provided into a new folder
+- check OldGentsBox.py for settings (Images Name, Folder, Thumbnails, ...)
+- chmod +x OldGentsBox.py
+- to start, run ./OldGentsBox.py in a terminal or use the provided desktop-shortcut
+- Have fun!
