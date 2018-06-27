@@ -220,6 +220,8 @@ def print_callback_helper(PRINTIN):
 
 
 def rf_callback_helper(RFIN):
+	global IDLE
+	
 	if IDLE:
 		take_photo(surface, images)
 
