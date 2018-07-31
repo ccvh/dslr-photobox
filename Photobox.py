@@ -37,7 +37,7 @@ THEME = 'themes/standard/'
 
 IMAGES_PATH = 'images'
 IMAGE_NAME_TEMPLATE = 'DSC_{0}.jpg'
-CREATE_THUMBNAIL = True
+CREATE_THUMBNAIL = False
 THUMBNAIL_PATH = 'images/thumbs'
 THUMBNAIL_NAME_TEMPLATE = 'DSC_{0}.jpg'
 THUMBNAIL_WIDTH = '800'
